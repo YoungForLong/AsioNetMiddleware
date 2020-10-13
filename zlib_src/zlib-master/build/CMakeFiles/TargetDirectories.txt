@@ -1,0 +1,8 @@
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/zlib.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/zlibstatic.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/example.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/minigzip.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/INSTALL.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/RUN_TESTS.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/ALL_BUILD.dir
+F:/Proxy/AsioNet/zlib-src/zlib-master/build/CMakeFiles/ZERO_CHECK.dir

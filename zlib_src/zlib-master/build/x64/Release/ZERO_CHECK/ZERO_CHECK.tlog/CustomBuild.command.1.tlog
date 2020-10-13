@@ -1,0 +1,10 @@
+^F:\PROXY\ASIONET\ZLIB-SRC\ZLIB-MASTER\BUILD\CMAKEFILES\407D450350378DD1282038F234D67BBF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SF:/Proxy/AsioNet/zlib-src/zlib-master -BF:/Proxy/AsioNet/zlib-src/zlib-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/Proxy/AsioNet/zlib-src/zlib-master/build/zlib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

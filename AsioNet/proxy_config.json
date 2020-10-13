@@ -1,0 +1,7 @@
+{
+  "listened_port": 10026,
+  "session_thread_num": 4,
+  "tick_interval": 1000,
+  "keep_alive_timeout": 10000,
+  "max_send_delay": 200
+}

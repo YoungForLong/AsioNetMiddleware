@@ -1,0 +1,4 @@
+﻿  Building Custom Rule F:/Proxy/AsioNet/zlib-src/zlib-master/CMakeLists.txt
+  minigzip.c
+F:\Proxy\AsioNet\zlib-src\zlib-master\test\minigzip.c(503,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  minigzip.vcxproj -> F:\Proxy\AsioNet\zlib-src\zlib-master\build\Release\minigzip.exe
